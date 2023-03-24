@@ -1,0 +1,19 @@
+img {
+    max-width: 100%;
+}
+body {
+    margin: 0;
+}
+body {
+    padding: 10px;
+    background-color: #2E9AFE;
+    color: white;
+    text-align: center;
+}
+main {
+    margin: 0 auto;
+    padding: 10px;
+    max-width: 800px;
+}
+h1 {
+}
